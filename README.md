@@ -7,5 +7,5 @@
 ### Jalankan
 
 ```
-node game-ml.js
+node game-ml/game-ml.js
 ```
